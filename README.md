@@ -4,4 +4,4 @@ Problem Statement - The BigBasket dataset has information about index, product, 
 Tools used - pandas, statistics, matplotlib, seaborn, plotly, exploratory data analysis , machine learning algorithms ( linear regression, decision tree regressor, random forest regressor, support vector regressor.
 
 
-Achievements - Found best accuracy of machine learning model ( linear regression 94% ) this helps bigbasket to predict sale price with 94% accuracy. this helps bigbasket to take neccesary decisions on sale price in the future with this it earns profit.
+Achievements - Found best accuracy of machine learning model ( linear regression 94% ) this helps BigBasket to predict sale price with 94% accuracy. this helps bigbasket to take neccesary decisions on sale price in the future with this it earns profit.
